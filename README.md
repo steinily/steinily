@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning :Javascript , Web Developing, Manual Testing , Automata Testing<br>
+🌱 I’m currently learning : Automata Testing, Data Analytics Engineering<br>
 
 
 # 💻 Tech Stack:
